@@ -14,6 +14,10 @@ Pasta
 Pizza
 Salad
 
+Drinks
+water
+coke
+
 
 Thank you!
 Final copy
