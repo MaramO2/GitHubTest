@@ -13,6 +13,10 @@ Pasta
 Pizza
 Salad
 
+Drinks
+water
+coke
+
 
 
 
